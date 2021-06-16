@@ -1,0 +1,98 @@
+{
+   "ret": true,
+   "data": {
+       "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg"
+    },
+    {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_600x330_2106404f.jpg"
+    },
+    {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg_600x330_ca603c01.jpg"
+    }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0002",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0003",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0004",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0005",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0006",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0007",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0008",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    },
+    {
+        "id": "0009",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/feac0f0a895cbc7c49920238529ca6e7.png",
+        "desc": "景点门票"
+    }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+        "title": "蓝色的大海",
+        "desc": "清澈的水，好多鱼"
+    },
+    {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+        "title": "蓝色的大海",
+        "desc": "清澈的水，好多鱼"
+    },
+    {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+        "title": "蓝色的大海",
+        "desc": "清澈的水，好多鱼"
+    }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+        "title": "蓝色的大海",
+        "desc": "清澈的水，好多鱼"
+    },
+    {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+        "title": "蓝色的大海",
+        "desc": "清澈的水，好多鱼"
+    },
+    {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+        "title": "蓝色的大海",
+        "desc": "清澈的水，好多鱼"
+    }]
+   }
+}
